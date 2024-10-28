@@ -1,0 +1,17 @@
+/* File CSS untuk home.html */
+body{
+    /* background-color: blue; */
+    margin-left: 30px;
+}
+p{
+    font-size: 20pt;
+    /* margin-left: 10px; */
+
+}
+button{
+    color: #10ee0c;
+}
+img {
+    width: 50%;
+    height: 10%;
+}
